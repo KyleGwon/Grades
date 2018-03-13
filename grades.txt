@@ -1,0 +1,5 @@
+Quiz Grades:
+18.5
+17
+Lab Grades:
+10
