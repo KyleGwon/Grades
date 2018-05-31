@@ -1,6 +1,7 @@
 Quiz Grades:
 18.5
 17
+15.75
 Lab Grades:
 10
 10
